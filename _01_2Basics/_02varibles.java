@@ -1,4 +1,4 @@
-package _01Basics;
+package _01_2Basics;
 
 public class _02varibles{
    public static void main(String[] args) {
