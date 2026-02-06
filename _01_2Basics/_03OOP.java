@@ -1,7 +1,7 @@
 package _01_2Basics;
 
 class calculater{
-
+  int num=8;
   int add(int a, int b){
     return a+b;
   }
