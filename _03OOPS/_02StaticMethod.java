@@ -12,7 +12,7 @@
 
    public static void show1(){
     System.out.println("Static methodd :" + name );
-   }
+   }  
 
    //to acess a instance or non-static variable
    public static void show2(_02Mobile obj){

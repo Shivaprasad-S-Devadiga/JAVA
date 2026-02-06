@@ -24,7 +24,7 @@ class B extends A{
 
 public class _07Super {
    public static void main(String[] args) {
-      B obj = new B(7);
+      B obj = new B();
    }
 
 }
